@@ -1,3 +1,4 @@
 # Index files
 ##### Get file
-![Image of code](https://octodex.github.com/images/yaktocat.png)
+# Code
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
