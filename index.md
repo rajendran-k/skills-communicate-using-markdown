@@ -1,4 +1,4 @@
 # Index files
 ##### Get file
-# Code
+# Codej
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
