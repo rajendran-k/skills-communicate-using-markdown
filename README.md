@@ -9,7 +9,7 @@
 
 # Communicate using Markdown
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+# _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
 
@@ -19,11 +19,44 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Define terms and link to docs.github.com.
 -->
 
-## Step 5: Merge your pull request
+## Step 1: Add headers
 
-_Great job adding a task list to the file :heart:_
+# _Welcome to "Communicate using Markdown"! :wave:_
 
-You can now [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your pull request!
+**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
+
+- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
+- Files with the `.md` or `.markdown` extension
+- Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+
+**What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+
+### Example
+
+```md
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+
+#### How it looks
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+### Example 2
+
+<pre>
+``` javascript
+var myVar = "Hello, world!";
+```
+</pre>
+
+#### How it looks
+
+```javascript
+var myVar = "Hello, world!";
+```
 
 ### :keyboard: Activity: Merge your pull request
 
