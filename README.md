@@ -14,54 +14,35 @@
 </header>
 
 <!--
-  <<< Author notes: Step 5 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Step 1: Add headers
+## Finish
 
-# _Welcome to "Communicate using Markdown"! :wave:_
+_Congratulations friend, you've completed this course!_
 
-**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
+<img src=https://octodex.github.com/images/welcometocat.png alt=celebrate width=300 align=right>
 
-- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- Files with the `.md` or `.markdown` extension
-- Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+Here's a recap of all the tasks you've accomplished in your repository:
 
-**What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+1. You learned about Markdown, headings, images, code examples, and task lists.
+1. You created and merged a Markdown file.
+1. You learned an essential GitHub skill. 🎉
 
-### Example
+### What's next?
 
-```md
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-```
-
-#### How it looks
-
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-
-### Example 2
-
-<pre>
-``` javascript
-var myVar = "Hello, world!";
-```
-</pre>
-
-#### How it looks
-
-```javascript
-var myVar = "Hello, world!";
-```
-
-### :keyboard: Activity: Merge your pull request
-
-1. Click **Merge pull request**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+- You can enable GitHub Pages and see your Markdown file as a website!
+  1. Under your repository name at the upper right, click :gear: **Settings**.
+  1. Then on the lower left, click **Pages** in the **Code and automation** section.
+  1. In the **GitHub Pages** section, ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu as your GitHub Pages publishing source.
+  1. Click the **Save** button.
+  1. Wait about 30 seconds then refresh the page. When you see "Your site is published at ..." you can click on the link to see your published site.
+- Learn more about [Markdown](https://docs.github.com/github/writing-on-github).
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown)
+- [Take another GitHub Skills course](https://github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
 
